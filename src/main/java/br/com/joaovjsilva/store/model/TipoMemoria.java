@@ -1,4 +1,4 @@
-package br.com.joaocarloslima.store.model;
+package br.com.joaovjsilva.store.model;
 
 public enum TipoMemoria {
     DDR4,DDR5
